@@ -11,3 +11,4 @@ while True:
     console.nextiteration()
     console.draw()
 
+#Sprememba #Hardwork
